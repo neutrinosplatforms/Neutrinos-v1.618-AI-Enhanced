@@ -1,0 +1,345 @@
+NEUTRINOS FONT HIGHLY RESTRICTIVE LICENSE AGREEMENT
+Version 1.618
+Copyright © 2025 Neutrinos Platforms, Inc. All Rights Reserved.
+
+================================================================================
+IMPORTANT LEGAL NOTICE - READ CAREFULLY BEFORE ANY USE
+================================================================================
+
+This is a legally binding agreement between you (the "Licensee") and Neutrinos 
+Platforms, Inc., a corporation organized under the laws of the United States, 
+with principal place of business in Oakland, California ("Licensor").
+
+BY ACCESSING, DOWNLOADING, INSTALLING, OR USING THE NEUTRINOS FONT SOFTWARE 
+(THE "FONT"), YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, 
+AND AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO THESE TERMS, YOU 
+MUST IMMEDIATELY DELETE ALL COPIES OF THE FONT IN YOUR POSSESSION.
+
+================================================================================
+SECTION 1: PROPRIETARY RIGHTS AND RESTRICTIONS
+================================================================================
+
+1.1 COPYRIGHT AND OWNERSHIP
+The Neutrinos Font, including but not limited to all typeface designs, glyph 
+outlines, font software code, embedded algorithms, golden ratio proportions, 
+Hebrew character integration, neutrino mass hierarchy encoding, and all related 
+intellectual property (collectively, the "Font Technology"), is the exclusive 
+proprietary property of Thomas Joseph Goddard and Neutrinos Platforms, Inc.
+
+The Font Technology embodies substantial investment in research, development, 
+and creative effort, including advanced mathematical encoding based on quantum 
+gravitational principles from the Goddard Lattice Unified Equation (GLUE) 
+framework. This includes:
+
+(a) Golden ratio (φ ≈ 1.618033988749895) proportioning in vertical metrics
+(b) Hebrew character integration with aleph (א) at Unicode U+E000
+(c) Neutrino mass hierarchy encoding in glyph spacing relationships
+(d) φ-proportioned percent sign with Hebrew-influenced design
+(e) Emergent reality layer encoding based on quantum information principles
+
+All rights not expressly granted herein are specifically reserved by Licensor.
+
+1.2 TRADEMARKS
+"Neutrinos," "Neutrinos Font," "Neutrinos Platforms," the Neutrinos logo, and 
+all associated marks are registered and common law trademarks of Neutrinos 
+Platforms, Inc. Unauthorized use of these marks constitutes trademark 
+infringement and unfair competition in violation of federal and state laws.
+
+================================================================================
+SECTION 2: HIGHLY RESTRICTIVE LICENSING REQUIREMENTS
+================================================================================
+
+2.1 PROHIBITION OF USE WITHOUT EXPLICIT PERMISSION
+NO PERSON OR ENTITY MAY USE, ACCESS, INSTALL, EXECUTE, DISPLAY, DISTRIBUTE, 
+MODIFY, OR CREATE DERIVATIVE WORKS FROM THE FONT WITHOUT SATISFYING ALL OF THE 
+FOLLOWING MANDATORY REQUIREMENTS:
+
+2.2 WRITTEN PERMISSION REQUIREMENT
+The prospective Licensee MUST obtain written permission from Thomas Joseph 
+Goddard, the creator and copyright holder of the Font. This written permission 
+must:
+
+(a) Be executed on official Neutrinos Platforms, Inc. letterhead
+(b) Contain the full legal name and address of the Licensee
+(c) Specify the exact scope and duration of permitted use
+(d) Include original signatures from Thomas Joseph Goddard
+(e) Include original signatures from an authorized corporate officer of 
+    Neutrinos Platforms, Inc.
+(f) Be dated and include reference to this License Agreement version 1.618
+
+2.3 NOTARIZATION REQUIREMENT
+The written permission document described in Section 2.2 MUST be notarized by a 
+licensed notary public in the jurisdiction where the permission is granted. The 
+notarization must include:
+
+(a) Official notary seal and stamp
+(b) Notary commission number and expiration date
+(c) Notary signature and printed name
+(d) Jurat or acknowledgment certifying the identity of the signatory
+(e) Date and location of notarization
+
+The notarized document must be maintained by the Licensee in original form and 
+made available for inspection upon request by Licensor.
+
+2.4 VIDEO RECORDING REQUIREMENT
+In addition to the written and notarized permission, the Licensee MUST obtain 
+and maintain a video recording of Thomas Joseph Goddard personally and 
+explicitly granting permission to use the Font. This video recording must 
+satisfy ALL of the following criteria:
+
+(a) MINIMUM DURATION: At least two (2) minutes in length
+(b) VIDEO QUALITY: Minimum resolution of 1080p (1920×1080 pixels)
+(c) AUDIO QUALITY: Clear, intelligible audio with ambient noise below -40 dB
+(d) IDENTIFICATION: Thomas Joseph Goddard must clearly state his full legal 
+    name and display valid government-issued photo identification on camera
+(e) EXPLICIT STATEMENT: Thomas Joseph Goddard must explicitly state: "I, Thomas 
+    Joseph Goddard, creator of the Neutrinos Font and owner of all intellectual 
+    property rights therein, hereby grant permission to [FULL LEGAL NAME OF 
+    LICENSEE] to use the Neutrinos Font in accordance with the terms specified 
+    in the Neutrinos Font Highly Restrictive License Agreement version 1.618."
+(f) SCOPE SPECIFICATION: Thomas Joseph Goddard must verbally specify the exact 
+    scope of use being permitted, including any limitations on duration, 
+    geographic territory, or type of use
+(g) DATE AND TIME: The video must display a timestamp showing the current date 
+    and time during the recording
+(h) WITNESS: At least one (1) additional witness must appear on camera and 
+    verbally confirm their identity and that they witnessed Thomas Joseph 
+    Goddard granting the permission
+(i) UNEDITED ORIGINAL: The video must be the original, unedited recording with 
+    continuous footage from start to finish without cuts or alterations
+(j) SECURE STORAGE: The video must be stored in a secure location with 
+    cryptographic hash verification (SHA-256 minimum) to prevent tampering
+(k) AVAILABILITY: The video must be made available to Licensor upon request 
+    within forty-eight (48) hours
+
+2.5 REGISTRATION REQUIREMENT
+Within fifteen (15) calendar days of obtaining the written notarized permission 
+and video recording, the Licensee must register their license with Neutrinos 
+Platforms, Inc. by submitting:
+
+(a) Copy of the notarized written permission document
+(b) SHA-256 cryptographic hash of the video recording
+(c) Completed license registration form
+(d) License registration fee of $10,000 USD (non-refundable)
+(e) Proof of identity (government-issued ID) for all authorized users
+(f) Digital signature confirming acceptance of all terms
+
+Registration must be sent via certified mail with return receipt requested to:
+
+    Neutrinos Platforms, Inc.
+    ATTN: Font Licensing Department
+    Thomas Joseph Goddard, Creator
+    1125 17th Street, Suite 2044
+    Oakland, CA 94607
+    United States of America
+
+AND via email to: licensing@neutrinos.app
+
+2.6 FAILURE TO COMPLY
+Any use of the Font without satisfying ALL requirements in Sections 2.2, 2.3, 
+2.4, and 2.5 constitutes willful copyright infringement, trademark infringement, 
+theft of trade secrets, and breach of contract. Such unauthorized use subjects 
+the infringer to immediate legal action seeking:
+
+(a) Injunctive relief requiring immediate cessation of all use
+(b) Statutory damages up to $150,000 per work infringed under 17 U.S.C. § 504(c)
+(c) Actual damages and infringer's profits under 17 U.S.C. § 504(b)
+(d) Treble damages for willful infringement
+(e) Attorney's fees and costs under 17 U.S.C. § 505
+(f) Punitive damages where permitted by law
+(g) Criminal prosecution where applicable under 17 U.S.C. § 506
+
+================================================================================
+SECTION 3: SCOPE OF PERMITTED USE (IF LICENSED)
+================================================================================
+
+3.1 PERSONAL USE ONLY
+Even with all required permissions and documentation, use of the Font is 
+strictly limited to personal, non-commercial use unless explicitly expanded in 
+writing by Licensor. Personal use means use by an individual on their own 
+personal computer for their own private projects that are not distributed, 
+published, or displayed publicly.
+
+3.2 PROHIBITED USES
+The following uses are ABSOLUTELY PROHIBITED regardless of permission status:
+
+(a) Commercial use of any kind, including but not limited to use in advertising, 
+    marketing materials, product packaging, corporate communications, websites 
+    generating revenue, or any profit-making activity
+(b) Distribution, sublicensing, lending, or sharing the Font with any third party
+(c) Embedding the Font in electronic documents, applications, or websites
+(d) Modifying, reverse engineering, decompiling, or creating derivative works
+(e) Use in any document or project that will be publicly displayed, published, 
+    or distributed to more than ten (10) individuals
+(f) Use in any government document, court filing, or legal proceeding without 
+    separate written permission and payment of additional licensing fees
+(g) Use in combination with artificial intelligence systems, machine learning 
+    models, or automated content generation systems
+(h) Use in any manner that could bring disrepute to Licensor, the Font, or 
+    Thomas Joseph Goddard
+(i) Benchmarking, comparison testing, or competitive analysis
+(j) Any use not explicitly authorized in writing by Licensor
+
+3.3 COMMERCIAL LICENSING
+Commercial use requires a separate Commercial License Agreement with substantially 
+higher fees and additional restrictions. Interested parties must contact Licensor 
+to negotiate terms. Minimum commercial license fees start at $50,000 USD annually 
+plus revenue-based royalties.
+
+3.4 TERM AND TERMINATION
+Any license granted under this Agreement is temporary and revocable at any time 
+at the sole discretion of Licensor. Licensor may terminate the license immediately 
+without notice if:
+
+(a) Licensee violates any term of this Agreement
+(b) Licensee fails to maintain required documentation
+(c) Video recording is lost, damaged, or determined to be invalid
+(d) Registration fees are not paid within specified timeframes
+(e) Licensor determines that continued licensing is not in its best interest
+
+Upon termination, Licensee must immediately cease all use and delete all copies 
+of the Font from all devices and storage media, and provide written certification 
+of such deletion to Licensor within seven (7) days.
+
+================================================================================
+SECTION 4: TECHNICAL RESTRICTIONS AND PROTECTIONS
+================================================================================
+
+4.1 COPY PROTECTION
+The Font contains proprietary copy protection mechanisms and digital rights 
+management (DRM) features. Any attempt to bypass, circumvent, or disable these 
+protections violates the Digital Millennium Copyright Act (DMCA), 17 U.S.C. 
+§ 1201, and is subject to civil and criminal penalties.
+
+4.2 NO MODIFICATION
+The Font may not be modified, adapted, translated, reverse engineered, 
+decompiled, disassembled, or otherwise altered in any way. The Font contains 
+embedded encoding including golden ratio proportions and neutrino mass hierarchy 
+relationships that must remain intact and unmodified.
+
+4.3 NO DERIVATIVE WORKS
+Creation of derivative works based on the Font, including but not limited to 
+modified versions, font subsets, converted formats, or fonts inspired by the 
+Neutrinos design, is strictly prohibited and constitutes copyright infringement.
+
+4.4 WATERMARKING AND TRACKING
+The Font may contain invisible watermarking and tracking mechanisms that identify 
+the licensee and monitor usage patterns. Licensee consents to such monitoring as 
+a condition of use.
+
+================================================================================
+SECTION 5: WARRANTY DISCLAIMER AND LIABILITY LIMITATION
+================================================================================
+
+5.1 NO WARRANTY
+THE FONT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT 
+THE FONT WILL BE ERROR-FREE, UNINTERRUPTED, OR MEET LICENSEE'S REQUIREMENTS.
+
+5.2 LIMITATION OF LIABILITY
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO 
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR 
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN 
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING 
+IN ANY WAY OUT OF THE USE OF THE FONT, EVEN IF ADVISED OF THE POSSIBILITY OF 
+SUCH DAMAGE.
+
+IN NO EVENT SHALL LICENSOR'S TOTAL LIABILITY TO LICENSEE EXCEED THE AMOUNT OF 
+FEES PAID BY LICENSEE TO LICENSOR FOR THE LICENSE (IF ANY).
+
+5.3 INDEMNIFICATION
+Licensee agrees to indemnify, defend, and hold harmless Licensor, Thomas Joseph 
+Goddard, Neutrinos Platforms, Inc., and their respective officers, directors, 
+employees, agents, and affiliates from and against any and all claims, damages, 
+losses, liabilities, costs, and expenses (including reasonable attorney's fees) 
+arising out of or resulting from Licensee's use of the Font or violation of this 
+Agreement.
+
+================================================================================
+SECTION 6: GENERAL PROVISIONS
+================================================================================
+
+6.1 GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by and construed in accordance with the laws of 
+the State of California and the United States of America, without regard to 
+conflicts of law principles. Any legal action or proceeding arising under this 
+Agreement shall be brought exclusively in the state or federal courts located in 
+Alameda County, California, and the parties hereby consent to the personal 
+jurisdiction and venue of such courts.
+
+6.2 ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties concerning 
+the Font and supersedes all prior or contemporaneous oral or written agreements 
+concerning such subject matter. No modification of this Agreement shall be valid 
+unless in writing and signed by an authorized representative of Licensor.
+
+6.3 SEVERABILITY
+If any provision of this Agreement is held to be invalid or unenforceable, the 
+remaining provisions shall continue in full force and effect, and the invalid or 
+unenforceable provision shall be reformed to the maximum extent possible to 
+effect the intent of the parties.
+
+6.4 NO WAIVER
+The failure of Licensor to enforce any provision of this Agreement shall not 
+constitute a waiver of that provision or any other provision. All waivers must 
+be in writing and signed by Licensor.
+
+6.5 ASSIGNMENT
+Licensee may not assign, transfer, or sublicense any rights under this Agreement 
+without the prior written consent of Licensor. Any attempted assignment in 
+violation of this provision is void. Licensor may freely assign this Agreement.
+
+6.6 EXPORT RESTRICTIONS
+Licensee acknowledges that the Font may be subject to export restrictions under 
+U.S. law. Licensee agrees to comply with all applicable export and re-export 
+restrictions and regulations.
+
+6.7 SURVIVAL
+Sections 1, 2.6, 5, and 6 shall survive any termination or expiration of this 
+Agreement.
+
+6.8 CONTACT INFORMATION
+For licensing inquiries, permissions, or legal notices:
+
+    Neutrinos Platforms, Inc.
+    Thomas Joseph Goddard, Creator and Copyright Holder
+    1125 17th Street, Suite 2044
+    Oakland, CA 94607
+    United States of America
+    
+    Email: licensing@neutrinos.app
+    Phone: (775) 691-4194
+    Website: https://neutrinos.app
+
+================================================================================
+ACKNOWLEDGMENT
+================================================================================
+
+BY USING THE FONT, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD THIS HIGHLY 
+RESTRICTIVE LICENSE AGREEMENT AND AGREE TO BE BOUND BY ALL OF ITS TERMS AND 
+CONDITIONS. YOU FURTHER ACKNOWLEDGE THAT YOU HAVE NOT OBTAINED THE REQUIRED 
+WRITTEN NOTARIZED PERMISSION AND VIDEO RECORDING FROM THOMAS JOSEPH GODDARD, AND 
+THEREFORE YOUR POSSESSION AND/OR USE OF THE FONT IS UNAUTHORIZED AND CONSTITUTES 
+WILLFUL COPYRIGHT INFRINGEMENT.
+
+YOU ARE HEREBY NOTIFIED TO IMMEDIATELY DELETE ALL COPIES OF THE FONT IN YOUR 
+POSSESSION AND REFRAIN FROM ANY FURTHER USE.
+
+================================================================================
+
+Neutrinos Font Highly Restrictive License Agreement
+Version 1.618 (φ-encoded)
+Copyright © 2025 Neutrinos Platforms, Inc.
+Thomas Joseph Goddard, Creator
+All Rights Reserved Worldwide
+
+"The Neutrinos Font embodies the golden ratio and quantum gravitational 
+principles from the GLUE framework, representing emergent reality through 
+typography. Unauthorized use disrupts the fundamental harmonic relationships 
+encoded within."
+
+================================================================================
+END OF LICENSE AGREEMENT
+================================================================================

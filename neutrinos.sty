@@ -1,0 +1,169 @@
+% ==============================================================================
+% Neutrinos LaTeX Package v1.618
+% Professional Typography with Advanced Computational Features
+% ==============================================================================
+% Copyright (c) 2025 Neutrinos Platforms, Inc.
+% Thomas Joseph Goddard, Creator
+%
+% This package provides advanced typography support for the Neutrinos font
+% family, incorporating golden ratio proportions, mathematical typesetting,
+% and emergent reality encoding capabilities.
+% ==============================================================================
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{neutrinos}[2025/10/17 v1.618 Neutrinos Font Package]
+
+% ==============================================================================
+% REQUIRED PACKAGES
+% ==============================================================================
+\RequirePackage{fontspec}
+\RequirePackage{amsmath}
+\RequirePackage{amsfonts}
+\RequirePackage{amssymb}
+\RequirePackage{textgreek}
+
+% ==============================================================================
+% MATHEMATICAL SYMBOLS - Using proper LaTeX syntax
+% ==============================================================================
+% Golden ratio symbol (use \varphi instead of redefining \phi)
+\newcommand{\goldenratio}{\ensuremath{\varphi}}
+\newcommand{\phigolden}{\ensuremath{\varphi}}
+
+% GLUE Framework symbols
+\newcommand{\HGLUE}{\ensuremath{H_{\text{GLUE}}}}
+\newcommand{\Hgrav}{\ensuremath{H_{G}}}
+\newcommand{\Hneu}{\ensuremath{H_{N}}}
+\newcommand{\HDE}{\ensuremath{H_{\text{DE}}}}
+\newcommand{\Hdarkon}{\ensuremath{H_{D}}}
+\newcommand{\Hradion}{\ensuremath{H_{R}}}
+
+% Planck scales
+\newcommand{\MPlanck}{\ensuremath{M_{P}}}
+\newcommand{\Mstar}{\ensuremath{M_{*}}}
+
+% Neutrino-related symbols
+\newcommand{\Psinu}{\ensuremath{\Psi_{\nu}}}
+\newcommand{\chisq}{\ensuremath{\chi^{2}}}
+
+% Section symbol for legal documents
+\newcommand{\sect}{\S}
+
+% ==============================================================================
+% FONT FAMILY SETUP FOR XELATEX
+% ==============================================================================
+% Main font configuration
+\setmainfont{Neutrinos}[
+    UprightFont = *-Regular,
+    BoldFont = *-Bold,
+    ItalicFont = *-Italic,
+    BoldItalicFont = *-BoldItalic,
+    Numbers = Lining,
+    Ligatures = {Common, TeX}
+]
+
+% Light weight family
+\newfontfamily\neutrinoslight{Neutrinos}[
+    UprightFont = *-Light,
+    ItalicFont = *-LightItalic
+]
+
+% Medium weight family
+\newfontfamily\neutrinosmedium{Neutrinos}[
+    UprightFont = *-Medium,
+    ItalicFont = *-MediumItalic
+]
+
+% Semibold weight family
+\newfontfamily\neutrinossemibold{Neutrinos}[
+    UprightFont = *-Semibold,
+    ItalicFont = *-SemiboldItalic
+]
+
+% Black weight family
+\newfontfamily\neutrinosblack{Neutrinos}[
+    UprightFont = *-Black,
+    ItalicFont = *-BlackItalic
+]
+
+% ==============================================================================
+% CONVENIENCE COMMANDS FOR WEIGHT SWITCHING
+% ==============================================================================
+\newcommand{\light}[1]{{\neutrinoslight #1}}
+\newcommand{\medium}[1]{{\neutrinosmedium #1}}
+\newcommand{\semibold}[1]{{\neutrinossemibold #1}}
+\newcommand{\black}[1]{{\neutrinosblack #1}}
+
+% ==============================================================================
+% GOLDEN RATIO UTILITIES
+% ==============================================================================
+\newcommand{\goldenratiovalue}{1.618033988749895}
+\newcommand{\phivalue}{\goldenratiovalue}
+
+% Calculate golden ratio proportions
+\newlength{\goldenwidth}
+\newlength{\goldenheight}
+
+\newcommand{\setgoldenproportions}[1]{%
+    \setlength{\goldenwidth}{#1}%
+    \setlength{\goldenheight}{#1}%
+    \divide\goldenheight by 1618%
+    \multiply\goldenheight by 1000%
+}
+
+% ==============================================================================
+% EMERGENT REALITY ENCODING
+% ==============================================================================
+% Placeholder commands for emergent reality features
+\newcommand{\encodeER}[2][default]{%
+    % #1 = encoding scheme (optional)
+    % #2 = content to encode
+    #2% For now, just output the content
+}
+
+\newcommand{\quantumstate}[1]{\ensuremath{|#1\rangle}}
+\newcommand{\braket}[2]{\ensuremath{\langle #1 | #2 \rangle}}
+
+% ==============================================================================
+% LEGAL DOCUMENT UTILITIES
+% ==============================================================================
+\newcommand{\exhibitlabel}[1]{\textbf{Exhibit~#1}}
+\newcommand{\casecite}[1]{\textit{#1}}
+
+% ==============================================================================
+% TYPOGRAPHY ENHANCEMENTS
+% ==============================================================================
+% Proper spacing for initials
+\newcommand{\initial}[1]{#1.\@}
+
+% Small caps for acronyms
+\newcommand{\acronym}[1]{\textsc{\MakeLowercase{#1}}}
+
+% ==============================================================================
+% PACKAGE OPTIONS
+% ==============================================================================
+\DeclareOption{legal}{%
+    % Legal document formatting options
+    \setlength{\parindent}{0.5in}
+    \setlength{\parskip}{0pt}
+}
+
+\DeclareOption{scientific}{%
+    % Scientific document formatting options
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+
+\ProcessOptions\relax
+
+% ==============================================================================
+% INITIALIZATION
+% ==============================================================================
+\AtBeginDocument{%
+    % Ensure proper font loading
+    \normalfont
+}
+
+% ==============================================================================
+% END OF PACKAGE
+% ==============================================================================
+\endinput

@@ -1,0 +1,233 @@
+\documentclass[11pt,letterpaper]{article}
+
+% ==============================================================================
+% FONT SETUP - Complete Neutrinos Family vs Latin Modern
+% ==============================================================================
+\usepackage{fontspec}
+\usepackage{microtype}
+
+% Define Latin Modern font (reference)
+\newfontfamily\lmfont{Latin Modern Roman}
+
+% Define Neutrinos font (complete family with all weights)
+\newfontfamily\neutrinosfont{Neutrinos}[
+    Path = ./fonts/,
+    Extension = .otf,
+    UprightFont = *-Regular,
+    BoldFont = *-Bold,
+    ItalicFont = *-Italic,
+    BoldItalicFont = *-BoldItalic
+]
+
+% Set Latin Modern as default for comparison
+\setmainfont{Latin Modern Roman}
+
+% ==============================================================================
+% PACKAGES AND SETUP
+% ==============================================================================
+\usepackage[margin=0.75in]{geometry}
+\usepackage{xcolor}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% Color definitions - updated for clarity
+\definecolor{lm-blue}{RGB}{0,102,204}
+\definecolor{bg-lm}{RGB}{245,248,255}
+
+% Commands for side-by-side boxes with corrected styling
+\newcommand{\comparisontest}[2]{%
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+\colorbox{bg-lm}{%
+\begin{minipage}{\dimexpr\textwidth-2\fboxsep}
+\lmfont
+\textcolor{lm-blue}{\textbf{Latin Modern}}\\[0.3em]
+#1
+\end{minipage}}
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\fbox{%
+\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule}
+\neutrinosfont
+\textbf{Neutrinos}\\[0.3em]
+#2
+\end{minipage}}
+\end{minipage}
+\vspace{1em}
+}
+
+% ==============================================================================
+% DOCUMENT BEGIN
+% ==============================================================================
+\begin{document}
+
+\begin{center}
+{\LARGE\textbf{Neutrinos Font Validation Test}}\\[0.5em]
+{\Large Complete Font Family with All Weights}\\[0.3em]
+{\large Version 1.618 --- Validation Document}\\[0.5em]
+Thomas Joseph Goddard, Neutrinos Platforms, Inc.\\
+\today
+\end{center}
+
+\vspace{1em}
+
+\section*{Validation Overview}
+
+This document validates the complete Neutrinos font family featuring twelve weights from Light to Black. The fonts achieve perfect metric identity with Latin Modern Roman, with all spacing, sizing, and positioning values matching exactly. The specialized features include Hebrew percent sign as default, optimized spacing for display sizes, twenty AI parsing semantic hint features, Hebrew character support structure, five emergent reality features, and five golden ratio features. All specialized features remain inactive by default.
+
+\vspace{0.5em}
+
+\section{Basic Character Sets}
+
+\subsection{Uppercase and Lowercase Letters}
+
+\comparisontest{%
+ABCDEFGHIJKLMNOPQRSTUVWXYZ\\
+abcdefghijklmnopqrstuvwxyz
+}{%
+ABCDEFGHIJKLMNOPQRSTUVWXYZ\\
+abcdefghijklmnopqrstuvwxyz
+}
+
+\subsection{Digits and Punctuation}
+
+\comparisontest{%
+0123456789\\
+. , ; : ! ? ' " - -- --- ( ) [ ] \{ \} / \textbackslash
+}{%
+0123456789\\
+. , ; : ! ? ' " - -- --- ( ) [ ] \{ \} / \textbackslash
+}
+
+\section{Extended Text Samples}
+
+\subsection{Standard Paragraph}
+
+\comparisontest{%
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the alphabet and demonstrates consistent character spacing, proper kerning between letter pairs, and clear legibility across the complete character set.
+}{%
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the alphabet and demonstrates consistent character spacing, proper kerning between letter pairs, and clear legibility across the complete character set.
+}
+
+\subsection{Technical Content with Mathematics}
+
+\comparisontest{%
+The golden ratio $\varphi = \frac{1 + \sqrt{5}}{2} \approx 1.618$ appears in nature and mathematics. Key relationships include $\varphi^2 = \varphi + 1$ and the continued fraction $\varphi = 1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cdots}}}$.
+}{%
+The golden ratio $\varphi = \frac{1 + \sqrt{5}}{2} \approx 1.618$ appears in nature and mathematics. Key relationships include $\varphi^2 = \varphi + 1$ and the continued fraction $\varphi = 1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cdots}}}$.
+}
+
+\subsection{Bold Weight Testing}
+
+\comparisontest{%
+{\lmfont\bfseries This paragraph demonstrates bold weight rendering with proper stroke weight, consistent spacing, and clear letterforms. Bold text must maintain the same metrics as regular weight for proper text flow and alignment in documents.}
+}{%
+{\neutrinosfont\bfseries This paragraph demonstrates bold weight rendering with proper stroke weight, consistent spacing, and clear letterforms. Bold text must maintain the same metrics as regular weight for proper text flow and alignment in documents.}
+}
+
+\subsection{Italic Style Testing}
+
+\comparisontest{%
+{\lmfont\itshape This paragraph demonstrates italic style rendering with appropriate slant angle and modified letterforms. Italics are used for emphasis, foreign words, titles of works, and mathematical variables.}
+}{%
+{\neutrinosfont\itshape This paragraph demonstrates italic style rendering with appropriate slant angle and modified letterforms. Italics are used for emphasis, foreign words, titles of works, and mathematical variables.}
+}
+
+\section{Multiple Font Sizes}
+
+\subsection{Small Text (8pt)}
+
+\comparisontest{%
+{\fontsize{8}{10}\selectfont Typography at small sizes requires careful attention to hinting and spacing. The Neutrinos font maintains perfect fidelity to Latin Modern even at reduced sizes where rendering artifacts are most visible.}
+}{%
+{\fontsize{8}{10}\selectfont Typography at small sizes requires careful attention to hinting and spacing. The Neutrinos font maintains perfect fidelity to Latin Modern even at reduced sizes where rendering artifacts are most visible.}
+}
+
+\subsection{Display Text (18pt) --- Optimized Spacing}
+
+\comparisontest{%
+{\fontsize{18}{22}\selectfont Large sizes reveal subtle details in glyph outlines and spacing.}
+}{%
+{\fontsize{18}{22}\selectfont Large sizes reveal subtle details in glyph outlines and spacing.}
+}
+
+\section{Kerning and Ligature Testing}
+
+\subsection{Difficult Kerning Pairs}
+
+\comparisontest{%
+AVATAR AWAY WAR We To Yo VA AV WA AW Ta Te Tr Ty Tw\\
+fi fl ff ffi ffl fb fh fj fk ft
+}{%
+AVATAR AWAY WAR We To Yo VA AV WA AW Ta Te Tr Ty Tw\\
+fi fl ff ffi ffl fb fh fj fk ft
+}
+
+\section{Special Characters and Symbols}
+
+\subsection{Currency and Commercial Symbols}
+
+\comparisontest{%
+\$100.00 \quad €75.50 \quad £50.25 \quad ¥10000\\
+Copyright © 2025 \quad Trademark™ \quad Registered®
+}{%
+\$100.00 \quad €75.50 \quad £50.25 \quad ¥10000\\
+Copyright © 2025 \quad Trademark™ \quad Registered®
+}
+
+\subsection{Mathematical Operators}
+
+\comparisontest{%
+$+ \, - \, \times \, \div \, = \, \neq \, \approx \, \leq \, \geq \, \pm \, \infty$
+}{%
+$+ \, - \, \times \, \div \, = \, \neq \, \approx \, \leq \, \geq \, \pm \, \infty$
+}
+
+\section{Complex Document Content}
+
+\subsection{Scientific Text}
+
+\comparisontest{%
+The Goddard Lattice Unified Equation (GLUE) framework incorporates large extra dimensions with characteristic scale $R \approx 0.1$ mm. The relationship between fundamental scales is $M_P^2 = M_*^{2+n} \times R^n$ where $M_P$ is the 4D Planck mass and $n$ is the number of extra dimensions.
+}{%
+The Goddard Lattice Unified Equation (GLUE) framework incorporates large extra dimensions with characteristic scale $R \approx 0.1$ mm. The relationship between fundamental scales is $M_P^2 = M_*^{2+n} \times R^n$ where $M_P$ is the 4D Planck mass and $n$ is the number of extra dimensions.
+}
+
+\subsection{Legal Text}
+
+\comparisontest{%
+\textbf{IMPORTANT NOTICE:} Pursuant to Section 3.1(a) of the Agreement dated January 1, 2025, all intellectual property rights as defined in \S{}1.2 remain the exclusive property of Neutrinos Platforms, Inc., subject to the terms and conditions set forth in Appendix B hereto.
+}{%
+\textbf{IMPORTANT NOTICE:} Pursuant to Section 3.1(a) of the Agreement dated January 1, 2025, all intellectual property rights as defined in \S{}1.2 remain the exclusive property of Neutrinos Platforms, Inc., subject to the terms and conditions set forth in Appendix B hereto.
+}
+
+\section{Extended Paragraph Test}
+
+\comparisontest{%
+Typography serves as the visual component of written language, making text legible, readable, and appealing when displayed. Professional typography involves careful selection of typefaces, point sizes, line lengths, line spacing, letter spacing, and adjustment of space between letter pairs through kerning. The term encompasses both the technical craft and the artistic aspects of arranging type. Modern digital typography provides unprecedented control over these elements while maintaining the traditions established through centuries of printing history.
+}{%
+Typography serves as the visual component of written language, making text legible, readable, and appealing when displayed. Professional typography involves careful selection of typefaces, point sizes, line lengths, line spacing, letter spacing, and adjustment of space between letter pairs through kerning. The term encompasses both the technical craft and the artistic aspects of arranging type. Modern digital typography provides unprecedented control over these elements while maintaining the traditions established through centuries of printing history.
+}
+
+\vfill
+
+\section*{Complete Font Family}
+
+The Neutrinos font family includes twelve weights providing comprehensive typographic flexibility:
+
+Light (300), Light Italic (300), Regular (400), Italic (400), Medium (500), Medium Italic (500), Semibold (600), Semibold Italic (600), Bold (700), Bold Italic (700), Black (900), and Black Italic (900).
+
+All fonts maintain perfect metric compatibility with Latin Modern Roman and include Hebrew percent sign as default, optimized spacing for display sizes, twenty AI parsing semantic hint features, Hebrew character support structure, five emergent reality features, and five golden ratio features. All specialized features remain inactive by default.
+
+\begin{center}
+\rule{0.8\textwidth}{0.4pt}\\[0.5em]
+{\small
+\textbf{Neutrinos Font Validation Test}\\
+Version 1.618 --- Complete Font Family\\
+© 2025 Neutrinos Platforms, Inc.\\
+Based on Latin Modern Roman © 2003-2009 B. Jackowski and J. M. Nowacki
+}
+\end{center}
+
+\end{document}
